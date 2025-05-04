@@ -13432,7 +13432,7 @@ body.tp-magic-cursor #magic-cursor {
   font-weight: 500;
   font-size: 20px;
   line-height: 1;
-  color: var(--tp-common-black);
+  color: var(--tp-common-white);
 }
 .service-details__title {
   font-weight: 500;
