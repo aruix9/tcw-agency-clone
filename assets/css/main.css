@@ -26583,7 +26583,8 @@ tbody, td, tfoot, th, thead, tr {
 }
 .liko-dark-active .tp-btn-circle.style-2 {
   border-color: rgba(245, 247, 245, 0.14);
-  color: var(--tp-common-white);
+  color: var(--tp-common-black);
+  background-color: var(--tp-common-white);
 }
 .liko-dark-active .tm-hero-title-big {
   color: var(--tp-common-white);
